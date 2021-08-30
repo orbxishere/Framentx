@@ -1,0 +1,14 @@
+{
+  "Script": [
+    {
+      "Name" : "Dark Dex",
+      "Images" : "https://i.gyazo.com/00d13c8ca363dc9c8add14c3dc7159f2.png",
+      "Source": "loadstring(game:HttpGet(''), true))()"
+    },
+    {
+      "Name" : "Infinite Yield",
+      "Images" : "https://repository-images.githubusercontent.com/230387740/f3658200-3abc-11ea-973a-b024e3a60673",
+      "Source": "loadstring(game:HttpGet(''), true))()"
+    }
+  ]
+}
